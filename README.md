@@ -23,7 +23,7 @@ By combining IoT technology, sensor integration, and Android app development, ou
 
 **Experience the 'FirstSow' project in action!**
 
-You can access the demo by following this link: [FirstSow Prototype](https://drive.google.com/file/d/1tndF6FuNhf2HOpGnALKfp-m_XO39aWUU/view?usp=sharing)
+You can access the demo by following this link: [FirstSow Prototype](https://drive.google.com/file/d/1egTlnxBqrRAxfxMuTGF1N-rl8uc-lTct/view)
 
 Explore our innovative agricultural initiative and witness how it optimizes crop planting for improved yields and sustainable farming practices.
 We welcome your feedback and insights as we work towards advancing agriculture.
